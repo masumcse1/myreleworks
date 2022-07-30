@@ -16,6 +16,7 @@ mvn release:prepare
  after war build & system testing done (1.1). then 
  
  1 . Tag  source  :  for 1.1 source backup and update into github
+ 
  2.  relase version update 1.2 . 
 
 ==========================================
